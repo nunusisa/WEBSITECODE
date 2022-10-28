@@ -1,7 +1,7 @@
 #  Web Development/ Web design By Darasavanh Sisavong 
 > This project is an e-commerce brand within the women's fashion website. The resources and tools that I am going to use to develop my website are HTML, CSS and javascript.
 ## TO RUN OR OPEN THIS WEBSITE
-> 1. Dowload all the files of 
+> 1. Dowload all the files that I included in this repository file: 
 * Index.html
 * style.css
 * app.js
